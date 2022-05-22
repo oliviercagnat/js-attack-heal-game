@@ -12,9 +12,9 @@ h2 {
 }
 
 progress {
-  -webkit-appearance: none;
+  -webkit-appearance: auto;
   -moz-appearance: none;
-  appearance: none;
+  appearance: auto;
   width: 80%;
   height: 2rem;
   color: #ff0062;
